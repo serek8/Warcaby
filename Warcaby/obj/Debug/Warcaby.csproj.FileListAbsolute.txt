@@ -1,0 +1,2 @@
+D:\STUDIA\sem_4\PAMSI\warcaby\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
