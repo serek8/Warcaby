@@ -1,2 +1,11 @@
 D:\STUDIA\sem_4\PAMSI\warcaby\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
 D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.FormMain.resources
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\bin\Debug\Warcaby.exe
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\bin\Debug\Warcaby.pdb
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.exe
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.pdb
+D:\STUDIA\sem_4\PAMSI\Warcaby\Warcaby\obj\Debug\Warcaby.View.FormLevelChoice.resources
